@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Mango (ИП Дана, 3-й заем)",
+    "principal": 300000.0,
+    "interest_rate": 0.36,
+    "duration_months": 18,
+    "start_date": "2025-06-10",
+    "repayment_start_month": 10
+  },
+  {
+    "name": "Qazaq Equipment (4-й заем)",
+    "principal": 300000.0,
+    "interest_rate": 0.33,
+    "duration_months": 12,
+    "start_date": "2025-06-03",
+    "repayment_start_month": 7
+  },
+  {
+    "name": "Silk Way (4-й заем)",
+    "principal": 300000.0,
+    "interest_rate": 0.36,
+    "duration_months": 12,
+    "start_date": "2025-04-01",
+    "repayment_start_month": 12
+  },
+  {
+    "name": "Шипагер",
+    "principal": 500000.0,
+    "interest_rate": 0.36,
+    "duration_months": 12,
+    "start_date": "2025-03-18",
+    "repayment_start_month": 4
+  },
+  {
+    "name": "General Solutions",
+    "principal": 500000.0,
+    "interest_rate": 0.36,
+    "duration_months": 12,
+    "start_date": "2025-03-04",
+    "repayment_start_month": 10
+  },
+  {
+    "name": "Восток Полиграфия (залоговая сделка)",
+    "principal": 300000.0,
+    "interest_rate": 0.33,
+    "duration_months": 18,
+    "start_date": "2025-02-20",
+    "repayment_start_month": 13
+  },
+  {
+    "name": "Yaya",
+    "principal": 300000.0,
+    "interest_rate": 0.36,
+    "duration_months": 12,
+    "start_date": "2025-02-12",
+    "repayment_start_month": 7
+  }
+]
