@@ -11,7 +11,6 @@ import pandas as pd
 locale.setlocale(locale.LC_TIME, "Russian_Russia.1251")  # Windows fallback
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-# BOT_TOKEN = "7741269885:AAF8n3VrWkHYRoxCgdTtZ4rAFDjuYM9uMkU"
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
 CONTRACTS_PATH = os.path.join(DATA_DIR, 'contracts.json')
