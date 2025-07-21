@@ -3,3 +3,6 @@ python-dateutil
 holidays
 pandas
 rapidfuzz
+requests
+together
+Flask==2.3.3
